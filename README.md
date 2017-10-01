@@ -7,8 +7,8 @@ Run it from the command line as such:
 
 You'll get back results like:
 
-    Pat = 0.34
-    Swap = 0.683
+    Stand Pat = 0.34
+    Swap Chgoice = 0.683
 
 # The Monty Hall problem
 

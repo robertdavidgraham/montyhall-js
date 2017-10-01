@@ -98,6 +98,6 @@ function RunManySimulations(do_change)
     return win / attempts;
 }
 
-console.log("Pat = " + RunManySimulations(false));
-console.log("Swap = " + RunManySimulations(true));
+console.log("Stand Pat = " + RunManySimulations(false));
+console.log("Swap Choice = " + RunManySimulations(true));
 
